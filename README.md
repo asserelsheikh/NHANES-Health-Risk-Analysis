@@ -19,7 +19,7 @@ The aim is to:
 ---
 
 ## 🧩 Dataset Description
-Data Source: [NHANES (CDC)]([https://www.cdc.gov/nchs/nhanes/index.htm](https://wwwn.cdc.gov/nchs/nhanes/default.aspx))  
+Data Source: [NHANES (CDC)](https://wwwn.cdc.gov/nchs/nhanes/default.aspx)  
 Years Covered: **2011 – 2023**  
 Merged Datasets:
 - Demographics  
